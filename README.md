@@ -16,4 +16,5 @@ This applied for micro:bit V2 with Rust and Zed
 
 #### Usage
 ```htpt 
-cargo generate --git https://github.com/lilyud420/microbitv2-rust-template.git```
+cargo generate --git https://github.com/lilyud420/microbitv2-rust-template.git
+```
