@@ -5,6 +5,6 @@ https://docs.nordicsemi.com/bundle/nRF52833_PS_v1.6/resource/nRF52833_PS_v1.6.pd
 
 MEMORY
 {
-  FLASH : ORIGIN = 0x00000000, LENGTH = 512K        // 512KB
-  RAM   : ORIGIN = 0x20000000, LENGTH = 128K        // 128KB
+  FLASH : ORIGIN = 0x00000000, LENGTH = 512K     
+  RAM   : ORIGIN = 0x20000000, LENGTH = 128K    
 }
