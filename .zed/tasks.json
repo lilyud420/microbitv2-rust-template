@@ -1,0 +1,6 @@
+[
+  {
+    "label": "Rust embed",
+    "command": "cargo embed"
+  } 
+]
