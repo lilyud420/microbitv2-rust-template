@@ -25,7 +25,7 @@ Create or edit .vscode/settings.json:
     "rust-analyzer.cargo-watch.allTargets": false,
     "rust-analyzer.cargo-watch.arguments": [
         "--target",
-        "thumbv7m-none-eabi"
+        "thumbv7em-none-eabihf"
     ]
 }
 ```
